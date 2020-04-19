@@ -1,0 +1,63 @@
+Book #8:
+
+Category: Core Java
+
+Title: Java Concurrency in Practice
+
+Author: Brian Goetz
+
+Description:
+
+"I was fortunate indeed to have worked with a fantastic team on the design and implementation of the concurrency features added to the Java platform in Java 5.0 and Java 6. Now this same team provides the best explanation yet of these new features, and of concurrency in general. Concurrency is no longer a subject for advanced users only. Every Java developer should read this book."
+--Martin Buchholz
+JDK Concurrency Czar, Sun Microsystems
+
+"For the past 30 years, computer performance has been driven by Moore's Law; from now on, it will be driven by Amdahl's Law. Writing code that effectively exploits multiple processors can be very challenging. Java Concurrency in Practice provides you with the concepts and techniques needed to write safe and scalable Java programs for today's--and tomorrow's--systems."
+--Doron Rajwan
+Research Scientist, Intel Corp
+
+"This is the book you need if you're writing--or designing, or debugging, or maintaining, or contemplating--multithreaded Java programs. If you've ever had to synchronize a method and you weren't sure why, you owe it to yourself and your users to read this book, cover to cover."
+--Ted Neward
+Author of Effective Enterprise Java
+
+"Brian addresses the fundamental issues and complexities of concurrency with uncommon clarity. This book is a must-read for anyone who uses threads and cares about performance."
+--Kirk Pepperdine
+CTO, JavaPerformanceTuning.com
+
+"This book covers a very deep and subtle topic in a very clear and concise way, making it the perfect Java Concurrency reference manual. Each page is filled with the problems (and solutions!) that programmers struggle with every day. Effectively exploiting concurrency is becoming more and more important now that Moore's Law is delivering more cores but not faster cores, and this book will show you how to do it."
+--Dr. Cliff Click
+Senior Software Engineer, Azul Systems
+
+"I have a strong interest in concurrency, and have probably written more thread deadlocks and made more synchronization mistakes than most programmers. Brian's book is the most readable on the topic of threading and concurrency in Java, and deals with this difficult subject with a wonderful hands-on approach. This is a book I am recommending to all my readers of The Java Specialists' Newsletter, because it is interesting, useful, and relevant to the problems facing Java developers today."
+--Dr. Heinz Kabutz
+The Java Specialists' Newsletter
+
+"I've focused a career on simplifying simple problems, but this book ambitiously and effectively works to simplify a complex but critical subject: concurrency. Java Concurrency in Practice is revolutionary in its approach, smooth and easy in style, and timely in its delivery--it's destined to be a very important book."
+--Bruce Tate
+Author of Beyond Java
+
+" Java Concurrency in Practice is an invaluable compilation of threading know-how for Java developers. I found reading this book intellectually exciting, in part because it is an excellent introduction to Java's concurrency API, but mostly because it captures in a thorough and accessible way expert knowledge on threading not easily found elsewhere."
+--Bill Venners
+Author of Inside the Java Virtual Machine
+
+Threads are a fundamental part of the Java platform. As multicore processors become the norm, using concurrency effectively becomes essential for building high-performance applications. Java SE 5 and 6 are a huge step forward for the development of concurrent applications, with improvements to the Java Virtual Machine to support high-performance, highly scalable concurrent classes and a rich set of new concurrency building blocks. In Java Concurrency in Practice , the creators of these new facilities explain not only how they work and how to use them, but also the motivation and design patterns behind them.
+
+However, developing, testing, and debugging multithreaded programs can still be very difficult; it is all too easy to create concurrent programs that appear to work, but fail when it matters most: in production, under heavy load. Java Concurrency in Practice arms readers with both the theoretical underpinnings and concrete techniques for building reliable, scalable, maintainable concurrent applications. Rather than simply offering an inventory of concurrency APIs and mechanisms, it provides design rules, patterns, and mental models that make it easier to build concurrent programs that are both correct and performant.
+
+This book covers:
+
+Basic concepts of concurrency and thread safety
+Techniques for building and composing thread-safe classes
+Using the concurrency building blocks in java.util.concurrent
+Performance optimization dos and don'ts
+Testing concurrent programs
+Advanced topics such as atomic variables, nonblocking algorithms, and the Java Memory Model
+
+
+ISBN: 0321349601
+
+
+Price: 28.79
+
+
+Publish Date: May 19, 2006

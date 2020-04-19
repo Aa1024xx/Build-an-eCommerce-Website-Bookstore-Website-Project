@@ -1,0 +1,37 @@
+Book #2:
+
+Title: Java 8 in Action: Lambdas, Streams, and functional-style programming  
+
+Author:  Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft
+
+Description:
+
+ava 8 in Action is a clearly written guide to the new features of Java 8. The book covers lambdas, streams, and functional-style programming. With Java 8's functional features you can now write more concise code in less time, and also automatically benefit from multicore architectures. It's time to dig in!
+
+Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.
+
+About the Book
+
+Every new version of Java is important, but Java 8 is a game changer. Java 8 in Action is a clearly written guide to the new features of Java 8. It begins with a practical introduction to lambdas, using real-world Java code. Next, it covers the new Streams API and shows how you can use it to make collection-based code radically easier to understand and maintain. It also explains other major Java 8 features including default methods, Optional, CompletableFuture, and the new Date and Time API.
+
+This book is written for programmers familiar with Java and basic OO programming.
+
+What's Inside
+
+How to use Java 8's powerful new features
+Writing effective multicore-ready applications
+Refactoring, testing, and debugging
+Adopting functional-style programming
+Quizzes and quick-check questions
+About the Authors
+
+Raoul-Gabriel Urma is a software engineer, speaker, trainer, and PhD candidate at the University of Cambridge. Mario Fusco is an engineer at Red Hat and creator of the lambdaj library. Alan Mycroft is a professor at Cambridge and cofounder of the Raspberry Pi Foundation.
+
+
+ISBN: 1617291994
+
+
+Price: 36.72
+
+
+Publish Date: August 28, 2014

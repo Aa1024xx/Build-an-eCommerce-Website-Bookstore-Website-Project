@@ -1,0 +1,20 @@
+Book #:
+
+Category: 
+
+Title: 
+
+Author: 
+
+Description:
+
+
+
+
+ISBN: 
+
+
+Price: 
+
+
+Publish Date:

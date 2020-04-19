@@ -1,0 +1,27 @@
+Book #6:
+
+Category: Java EE
+
+Title: Head First Servlets and JSP
+
+Author:  Bryan Basham, Kathy Sierra, Bert Bates 
+
+
+Description:
+
+Looking to study up for the new J2EE 1.5 Sun Certified Web Component Developer (SCWCD) exam? 
+
+This book will get you way up to speed on the technology you'll know it so well, in fact, that you can pass the brand new J2EE 1.5 exam. If that's what you want to do, that is. Maybe you don't care about the exam, but need to use servlets and JSPs in your next project. You're working on a deadline. You're over the legal limit for caffeine. You can't waste your time with a book that makes sense only AFTER you're an expert (or worse, one that puts you to sleep).
+
+Learn how to write servlets and JSPs, what makes a web container tick (and what ticks it off), how to use JSP's Expression Language (EL for short), and how to write deployment descriptors for your web applications. Master the c:out tag, and get a handle on exactly what's changed since the older J2EE 1.4 exam. You don't just pass the new J2EE 1.5 SCWCD exam, you'll understand this stuff and put it to work immediately.
+
+Head First Servlets and JSP doesn't just give you a bunch of facts to memorize; it drives knowledge straight into your brain. You'll interact with servlets and JSPs in ways that help you learn quickly and deeply. And when you're through with the book, you can take a brand-new mock exam, created specifically to simulate the real test-taking experience.
+
+
+ISBN: 0596516681
+
+
+Price: 33.29
+
+
+Publish Date: April 4, 2008

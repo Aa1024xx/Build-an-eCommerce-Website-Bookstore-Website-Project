@@ -1,0 +1,41 @@
+Book #3:
+
+Title: Spring in Action: Covers Spring 4  
+
+Author: Craig Walls 
+
+
+Description:
+
+Spring in Action, Fourth Edition is a hands-on guide to the Spring Framework, updated for version 4. It covers the latest features, tools, and practices including Spring MVC, REST, Security, Web Flow, and more. You'll move between short snippets and an ongoing example as you learn to build simple and efficient J2EE applications. Author Craig Walls has a special knack for crisp and entertaining examples that zoom in on the features and techniques you really need.
+
+Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.
+
+About the Technology
+
+Designed in 2003 as a lighter approach to J2EE development, Spring Framework has since become a standard choice for building enterprise applications and required knowledge for Java developers. Spring 4, the latest major version, provides full Java 8 integration along with key upgrades like new annotations for the IoC container, improvements to Spring Expression Language, and much-needed support for REST. Whether you're just discovering Spring or you want to absorb the new features, there's no better way to master Spring than with this book.
+
+About the Book
+
+Spring in Action, Fourth Edition is a hands-on guide to the Spring Framework. It covers Spring core, along with the latest updates to Spring MVC, Security, Web Flow, and more. You'll move between short snippets and an ongoing example as you learn to build simple and efficient JEE applications. Author Craig Walls has a special knack for crisp and entertaining examples that zoom in on the features and techniques you really need.
+
+Nearly 100,000 developers have used this book to learn Spring! It requires a working knowledge of Java.
+
+What's Inside
+
+Updated for Spring 4
+Spring Data for NoSQL
+Simplifying configuration with annotations and definition profiles
+Working with RESTful resources
+About the Author
+
+Craig Walls is a software developer at Pivotal. He's a popular author and a frequent speaker at user groups and conferences. Craig lives in Cross Roads, Texas.
+
+
+ISBN: 161729120X
+
+
+Price: 33.99
+
+
+Publish Date: November 28, 2014

@@ -1,0 +1,42 @@
+Book #7:
+
+Category: Core Java
+
+Title: Java Generics and Collections: Speed Up the Java Development Process
+
+Author: Maurice Naftalin, Philip Wadler
+
+Description:
+
+This comprehensive guide shows you how to master the most importantchanges to Java since it was first released. Generics and the greatlyexpanded collection libraries have tremendously increased the power ofJava 5 and Java 6. But they have also confused many developers whohaven't known how to take advantage of these new features.
+
+Java Generics and Collections covers everything from the mostbasic uses of generics to the strangest corner cases. It teaches youeverything you need to know about the collections libraries, so you'llalways know which collection is appropriate for any given task, andhow to use it.
+
+Topics covered include:
+
+Fundamentals of generics: type parameters and generic methods
+Other new features: boxing and unboxing, foreach loops, varargs
+Subtyping and wildcards
+Evolution not revolution: generic libraries with legacy clients andgeneric clients with legacy libraries
+Generics and reflection
+Design patterns for generics
+Sets, Queues, Lists, Maps, and their implementations
+Concurrent programming and thread safety with collections
+Performance implications of different collections
+Generics and the new collection libraries they inspired take Java to anew level. If you want to take your software development practice toa new level, this book is essential reading.
+
+Philip Wadler is Professor of Theoretical Computer Science at theUniversity of Edinburgh, where his research focuses on the design ofprogramming languages. He is a co-designer of GJ, work thatbecame the basis for generics in Sun's Java 5.0.
+
+Maurice Naftalin is Technical Director at Morningside Light Ltd., a software consultancy in the United Kingdom. He has most recently served as an architect and mentor at NSB Retail Systems plc, and as the leader of the client development team of a major UK government social service system.
+
+"A brilliant exposition of generics. By far the best book on thetopic, it provides a crystal clear tutorial that starts with thebasics and ends leaving the reader with a deep understanding of boththe use and design of generics."
+Gilad Bracha, Java Generics Lead, Sun Microsystems
+
+
+ISBN: 0596527756
+
+
+Price: 27.99
+
+
+Publish Date: October 27, 2006
